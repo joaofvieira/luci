@@ -44,7 +44,7 @@ msgid "<var>%d</var> pkts. per <var>%s</var>, burst <var>%d</var> pkts."
 msgstr ""
 
 msgid "<var>%s</var> and limit to %s"
-msgstr ""
+msgstr "<var>%s</var> e limitar a %s"
 
 msgid "Action"
 msgstr "Acção"
@@ -463,7 +463,7 @@ msgid "reject"
 msgstr "rejeitar"
 
 msgid "traffic"
-msgstr ""
+msgstr "trafego"
 
 #~ msgid "Destination"
 #~ msgstr "Destino"

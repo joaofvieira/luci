@@ -20,7 +20,7 @@ msgid "Downstream bandwidth in kbit/s"
 msgstr ""
 
 msgid "Host or Network in CIDR notation."
-msgstr ""
+msgstr "Host ou Rede na notação CIDR"
 
 msgid "Interface"
 msgstr "Interface"
@@ -44,10 +44,10 @@ msgid "Upstream bandwidth in kbit/s"
 msgstr ""
 
 msgid "Wondershaper"
-msgstr ""
+msgstr "Wondershaper"
 
 msgid "Wondershaper settings"
-msgstr ""
+msgstr "Definições Wondershaper"
 
 msgid ""
 "Wondershaper shapes traffic to ensure low latencies for interactive traffic "

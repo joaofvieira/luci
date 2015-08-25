@@ -125,10 +125,10 @@ msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
 msgstr "<abbr title='Emparelhada: %s / Grupo: %s'>%s - %s</abbr>"
 
 msgid "ADSL"
-msgstr ""
+msgstr "ADSL"
 
 msgid "ADSL Status"
-msgstr ""
+msgstr "Estado do ADSL"
 
 msgid "AICCU (SIXXS)"
 msgstr ""
@@ -273,10 +273,10 @@ msgid "Announce as default router even if no public prefix is available."
 msgstr ""
 
 msgid "Announced DNS domains"
-msgstr ""
+msgstr "Dominios DNS anunciados"
 
 msgid "Announced DNS servers"
-msgstr ""
+msgstr "Servidores DNS anunciados"
 
 msgid "Antenna 1"
 msgstr "Antena 1"
@@ -329,7 +329,7 @@ msgid "Auto Refresh"
 msgstr "Actualização Automática"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automático"
 
 msgid "Automatic Homenet (HNCP)"
 msgstr ""
@@ -377,10 +377,10 @@ msgid "Bad address specified!"
 msgstr "Endereço mal especificado!"
 
 msgid "Band"
-msgstr ""
+msgstr "Banda"
 
 msgid "Behind NAT"
-msgstr ""
+msgstr "Atrás de NAT"
 
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
@@ -434,7 +434,7 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 msgid "Chain"
 msgstr "Cadeia"
@@ -537,7 +537,7 @@ msgid "Connection Limit"
 msgstr "Limite de Ligações"
 
 msgid "Connection to server fails when TLS cannot be used"
-msgstr ""
+msgstr "A ligação ao servior falha quando o TLS não pode ser usado"
 
 msgid "Connections"
 msgstr "Ligações"
@@ -601,13 +601,13 @@ msgid "DHCPv6 Leases"
 msgstr "Concessões DHCPv6"
 
 msgid "DHCPv6 client"
-msgstr ""
+msgstr "Cliente DHCPv6"
 
 msgid "DHCPv6-Mode"
-msgstr ""
+msgstr "Modo-DHCPv6"
 
 msgid "DHCPv6-Service"
-msgstr ""
+msgstr "Serviço-DHCPv6"
 
 msgid "DNS"
 msgstr "DNS"

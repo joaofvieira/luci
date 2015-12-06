@@ -128,10 +128,10 @@ msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
 msgstr "<abbr title='Emparelhada: %s / Grupo: %s'>%s - %s</abbr>"
 
 msgid "ADSL"
-msgstr ""
+msgstr "ADSL"
 
 msgid "ADSL Status"
-msgstr ""
+msgstr "Estado ADSL"
 
 msgid "AICCU (SIXXS)"
 msgstr ""
@@ -219,7 +219,7 @@ msgid "Additional Hosts files"
 msgstr "Ficheiro Adicional de Hosts"
 
 msgid "Additional servers file"
-msgstr ""
+msgstr "Ficheiro de servidores adicional"
 
 msgid "Address"
 msgstr "Endereço"
@@ -270,7 +270,7 @@ msgid ""
 msgstr ""
 
 msgid "Always announce default router"
-msgstr ""
+msgstr "Anunciar sempre o router predefinido"
 
 msgid "An additional network will be created if you leave this unchecked."
 msgstr "Uma rede adicional será criada se deixar isto desmarcado."
@@ -341,13 +341,13 @@ msgid "Auto Refresh"
 msgstr "Actualização Automática"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automático"
 
 msgid "Automatic Homenet (HNCP)"
 msgstr ""
 
 msgid "Automatically check filesystem for errors before mounting"
-msgstr ""
+msgstr "Verificação automática de erros no sistema de ficheiros antes de montar"
 
 msgid "Automatically mount filesystems on hotplug"
 msgstr ""
@@ -407,10 +407,10 @@ msgid "Bad address specified!"
 msgstr "Endereço mal especificado!"
 
 msgid "Band"
-msgstr ""
+msgstr "Banda"
 
 msgid "Behind NAT"
-msgstr ""
+msgstr "Atrás de NAT"
 
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
@@ -457,7 +457,7 @@ msgid "Buttons"
 msgstr "Botões"
 
 msgid "CA certificate; if empty it will be saved after the first connection."
-msgstr ""
+msgstr "Certificado CA; se vazio será guardado após a primeira ligação."
 
 msgid "CPU"
 msgstr "CPU"
@@ -469,7 +469,7 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 msgid "Chain"
 msgstr "Cadeia"
@@ -490,7 +490,7 @@ msgid "Check"
 msgstr "Verificar"
 
 msgid "Check fileystems before mount"
-msgstr ""
+msgstr "Verificar sistemas de ficheiros antes de montar"
 
 msgid "Checksum"
 msgstr "Checksum"
@@ -647,13 +647,13 @@ msgid "DHCPv6 Leases"
 msgstr "Concessões DHCPv6"
 
 msgid "DHCPv6 client"
-msgstr ""
+msgstr "Cliente DHCPv6"
 
 msgid "DHCPv6-Mode"
-msgstr ""
+msgstr "Modo-DHCPv6"
 
 msgid "DHCPv6-Service"
-msgstr ""
+msgstr "Serviço-DHCPv6"
 
 msgid "DNS"
 msgstr "DNS"
@@ -674,13 +674,13 @@ msgid "Debug"
 msgstr "Depurar"
 
 msgid "Default %d"
-msgstr ""
+msgstr "%d predefinido"
 
 msgid "Default gateway"
 msgstr "Gateway predefinido"
 
 msgid "Default route"
-msgstr ""
+msgstr "Rota predefinida"
 
 msgid "Default state"
 msgstr "Estado predefinido"
@@ -719,16 +719,16 @@ msgid "Device Configuration"
 msgstr "Configuração do Dispositivo"
 
 msgid "Device is rebooting..."
-msgstr ""
+msgstr "O dispositivo está a reiniciar..."
 
 msgid "Device unreachable"
-msgstr ""
+msgstr "Dispositvo inatingível"
 
 msgid "Diagnostics"
 msgstr "Diagnósticos"
 
 msgid "Dial number"
-msgstr ""
+msgstr "Marcar número"
 
 msgid "Directory"
 msgstr "Directório"
@@ -765,7 +765,7 @@ msgid "Distance to farthest network member in meters."
 msgstr "Distância para o último host da rede em metros."
 
 msgid "Distribution feeds"
-msgstr ""
+msgstr "Feeds de distribuição"
 
 msgid "Diversity"
 msgstr "Diversidade"
@@ -949,7 +949,7 @@ msgstr ""
 "(<code>2m</code>)."
 
 msgid "External"
-msgstr ""
+msgstr "Externo"
 
 msgid "External system log server"
 msgstr "Servidor externo de logs de sistema"
@@ -1083,10 +1083,10 @@ msgid "General Setup"
 msgstr "Configuração Geral"
 
 msgid "General options for opkg"
-msgstr ""
+msgstr "Opções gerais para o opkg"
 
 msgid "Generate Config"
-msgstr ""
+msgstr "Gerar Configuração"
 
 msgid "Generate archive"
 msgstr "Gerar arquivo"
@@ -1099,25 +1099,25 @@ msgstr ""
 "A confirmação de password não corresponde, a password não foi alterada!"
 
 msgid "Global Settings"
-msgstr ""
+msgstr "Definições Globais"
 
 msgid "Global network options"
-msgstr ""
+msgstr "Opções globais de rede"
 
 msgid "Go to password configuration..."
-msgstr "Ir para a configuração da password"
+msgstr "Ir para a configuração da password..."
 
 msgid "Go to relevant configuration page"
 msgstr "Ir para a página respectiva de configuração"
 
 msgid "Guest"
-msgstr ""
+msgstr "Convidado"
 
 msgid "HE.net password"
 msgstr "Password HE.net"
 
 msgid "HE.net username"
-msgstr ""
+msgstr "Utilizador HE.net"
 
 msgid "Handler"
 msgstr "Handler"
@@ -1170,7 +1170,7 @@ msgid "Hostnames"
 msgstr "Hostnames"
 
 msgid "Hybrid"
-msgstr ""
+msgstr "Hibrído"
 
 msgid "IP address"
 msgstr "Endereço IP"
@@ -1221,13 +1221,13 @@ msgid "IPv6 Firewall"
 msgstr "Firewall IPv6"
 
 msgid "IPv6 Neighbours"
-msgstr ""
+msgstr "Vizinhos IPv6"
 
 msgid "IPv6 Settings"
-msgstr ""
+msgstr "Definições IPv6"
 
 msgid "IPv6 ULA-Prefix"
-msgstr ""
+msgstr "Prefixo-ULA IPv6"
 
 msgid "IPv6 WAN Status"
 msgstr "Estado WAN IPv6"
@@ -1342,7 +1342,7 @@ msgid "Install"
 msgstr "Instalar"
 
 msgid "Install iputils-traceroute6 for IPv6 traceroute"
-msgstr ""
+msgstr "Instalar o iputils-traceroute6 para traçar rotas em IPv6"
 
 msgid "Install package %q"
 msgstr "Instalar pacote %q"
@@ -1381,7 +1381,7 @@ msgid "Interfaces"
 msgstr "Interfaces"
 
 msgid "Internal"
-msgstr ""
+msgstr "Interna"
 
 msgid "Internal Server Error"
 msgstr "Erro Interno do Servidor"
@@ -1489,13 +1489,13 @@ msgid "Limit"
 msgstr "Limite"
 
 msgid "Line Attenuation"
-msgstr ""
+msgstr "Atenuação da linha"
 
 msgid "Line Speed"
-msgstr ""
+msgstr "Velocidade da linha"
 
 msgid "Line State"
-msgstr ""
+msgstr "Estado da linha"
 
 msgid "Link On"
 msgstr "Link Ativo"
@@ -1508,7 +1508,7 @@ msgstr ""
 "onde encaminhar os pedidos"
 
 msgid "List of SSH key files for auth"
-msgstr ""
+msgstr "Lista de ficheiros com chaves SSH para autenticação"
 
 msgid "List of domains to allow RFC1918 responses for"
 msgstr "Lista de dominios que permitem respostas RFC1918 para"
@@ -1575,7 +1575,7 @@ msgid "Localise queries"
 msgstr "Localizar consultas"
 
 msgid "Locked to channel %d used by: %s"
-msgstr ""
+msgstr "Bloqueado ao canal %d usadao por: %s"
 
 msgid "Log output level"
 msgstr "Nível de output do log"
@@ -1584,7 +1584,7 @@ msgid "Log queries"
 msgstr "Registo das consultas"
 
 msgid "Logging"
-msgstr ""
+msgstr "Auditoria"
 
 msgid "Login"
 msgstr "Login"
@@ -1625,7 +1625,7 @@ msgid ""
 msgstr ""
 
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 msgid "Maximum Rate"
 msgstr "Taxa Máxima"
@@ -1684,7 +1684,7 @@ msgid "Mode"
 msgstr "Modo"
 
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 msgid "Modem device"
 msgstr "Dispositivo do modem"
@@ -1721,7 +1721,7 @@ msgid "Mount filesystems not specifically configured"
 msgstr ""
 
 msgid "Mount options"
-msgstr ""
+msgstr "Opções de montagem"
 
 msgid "Mount point"
 msgstr "Ponto de montagem"
@@ -1826,7 +1826,7 @@ msgid "Noise"
 msgstr "Ruído"
 
 msgid "Noise Margin"
-msgstr ""
+msgstr "Margem de ruído"
 
 msgid "Noise:"
 msgstr "Ruído:"
@@ -1901,7 +1901,7 @@ msgid "OpenConnect (CISCO AnyConnect)"
 msgstr ""
 
 msgid "Operating frequency"
-msgstr ""
+msgstr "Frequência de trabalho"
 
 msgid "Option changed"
 msgstr "Opção alterada"
@@ -1931,16 +1931,16 @@ msgid "Outdoor Channels"
 msgstr "Canais de Outdoor"
 
 msgid "Output Interface"
-msgstr ""
+msgstr "Interface de saída"
 
 msgid "Override MAC address"
-msgstr ""
+msgstr "Ultrapassar endereço MAC"
 
 msgid "Override MTU"
-msgstr ""
+msgstr "Ultrapassar MTU"
 
 msgid "Override the gateway in DHCP responses"
-msgstr ""
+msgstr "Ultrapassar a gateway nas respostas DHCP "
 
 msgid ""
 "Override the netmask sent to clients. Normally it is calculated from the "
@@ -2068,7 +2068,7 @@ msgid "Port %d"
 msgstr "Porta %d"
 
 msgid "Port %d is untagged in multiple VLANs!"
-msgstr ""
+msgstr "A porta %d está untagged em várias VLANs!"
 
 msgid "Port status:"
 msgstr "Estado da porta:"
@@ -2106,7 +2106,7 @@ msgid "Protocol support is not installed"
 msgstr "O protocolo suportado não está instalado"
 
 msgid "Provide NTP server"
-msgstr ""
+msgstr "Fornecer servidor NTP"
 
 msgid "Provide new network"
 msgstr ""
@@ -2273,7 +2273,7 @@ msgid "Request IPv6-prefix of length"
 msgstr ""
 
 msgid "Require TLS"
-msgstr ""
+msgstr "Necessita TLS"
 
 msgid "Required for certain ISPs, e.g. Charter with DOCSIS 3"
 msgstr "Necessário para certos ISPs, p.ex. Charter with DOCSIS 3"
@@ -2361,7 +2361,7 @@ msgid "SSH server port"
 msgstr ""
 
 msgid "SSH username"
-msgstr ""
+msgstr "Utilizador SSH"
 
 msgid "SSH-Keys"
 msgstr "Chaves-SSH"
@@ -2405,10 +2405,10 @@ msgid "Separate WDS"
 msgstr "Separar WDS"
 
 msgid "Server Settings"
-msgstr ""
+msgstr "Definições do Servidor"
 
 msgid "Server password"
-msgstr ""
+msgstr "Password do servidor"
 
 msgid ""
 "Server password, enter the specific password of the tunnel when the username "
@@ -2416,7 +2416,7 @@ msgid ""
 msgstr ""
 
 msgid "Server username"
-msgstr ""
+msgstr "Utilizador do servidor"
 
 msgid "Service Name"
 msgstr "Nome do Serviço"
@@ -2453,7 +2453,7 @@ msgid "Size"
 msgstr "Tamanho"
 
 msgid "Size (.ipk)"
-msgstr ""
+msgstr "Tamanho (.ipk)"
 
 msgid "Skip"
 msgstr "Saltar"
@@ -2523,7 +2523,7 @@ msgid "Start priority"
 msgstr "Prioridade de inicialização"
 
 msgid "Startup"
-msgstr ""
+msgstr "Arranque"
 
 msgid "Static IPv4 Routes"
 msgstr "Rotas Estáticas IPv4"
@@ -2571,13 +2571,13 @@ msgid "Switch"
 msgstr "Switch"
 
 msgid "Switch %q"
-msgstr ""
+msgstr "Switch %q"
 
 msgid "Switch %q (%s)"
-msgstr ""
+msgstr "Switch %q (%s)"
 
 msgid "Switch protocol"
-msgstr ""
+msgstr "Protocolo de switch"
 
 msgid "Sync with browser"
 msgstr "Sincronizar com o browser"
@@ -2595,7 +2595,7 @@ msgid "System Properties"
 msgstr "Propriedades do Sistema"
 
 msgid "System log buffer size"
-msgstr ""
+msgstr "Tamanho do buffer do registo de sistema"
 
 msgid "TCP:"
 msgstr "TCP:"
@@ -2610,7 +2610,7 @@ msgid "TX"
 msgstr "TX"
 
 msgid "TX Rate"
-msgstr ""
+msgstr "Taxa TX"
 
 msgid "Table"
 msgstr "Tabela"
@@ -2730,7 +2730,7 @@ msgid "The selected protocol needs a device assigned"
 msgstr "O protocolo escolhido precisa de um dispositivo atribuído."
 
 msgid "The submitted security token is invalid or already expired!"
-msgstr ""
+msgstr "O token de segurança enviado é inválido ou ká expirou!"
 
 msgid ""
 "The system is erasing the configuration partition now and will reboot itself "
@@ -2959,7 +2959,7 @@ msgid "Unmanaged"
 msgstr "Não gerido"
 
 msgid "Unmount"
-msgstr ""
+msgstr "Desmontar"
 
 msgid "Unsaved Changes"
 msgstr "Alterações não Guardadas"

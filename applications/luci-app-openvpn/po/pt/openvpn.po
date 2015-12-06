@@ -97,7 +97,7 @@ msgid "Configure server bridge"
 msgstr "Configurar bridge de servidor"
 
 msgid "Configure server mode"
-msgstr "Configurar modo de servidor"
+msgstr "Configurar modo servidor"
 
 msgid "Connect through Socks5 proxy"
 msgstr "Ligar através de um proxy Socks5"
@@ -154,7 +154,7 @@ msgid "Don't log timestamps"
 msgstr "Não registar timestamps"
 
 msgid "Don't pull routes automatically"
-msgstr ""
+msgstr "Não puxar rotas automaticamente"
 
 msgid "Don't re-read key on restart"
 msgstr "Não reler a chave entre reinicios"
@@ -547,7 +547,7 @@ msgid "yes (%i)"
 msgstr "sim (%i)"
 
 msgid "« Switch to basic configuration"
-msgstr "Mudar para configuração básica"
+msgstr "« Mudar para configuração básica"
 
 #~ msgid "Cryptography"
 #~ msgstr "Criptografia"

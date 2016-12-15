@@ -128,7 +128,7 @@ msgid "ADSL"
 msgstr ""
 
 msgid "ADSL Status"
-msgstr ""
+msgstr "Estado ADSL"
 
 msgid "AICCU (SIXXS)"
 msgstr ""
@@ -2284,10 +2284,10 @@ msgid "Separate WDS"
 msgstr "Separar WDS"
 
 msgid "Server Settings"
-msgstr ""
+msgstr "Definições do Servidor"
 
 msgid "Server password"
-msgstr ""
+msgstr "Password servidor"
 
 msgid ""
 "Server password, enter the specific password of the tunnel when the username "
@@ -2787,7 +2787,7 @@ msgid "Tunnel setup server"
 msgstr ""
 
 msgid "Tunnel type"
-msgstr ""
+msgstr "Tipo de Túnel"
 
 msgid "Turbo Mode"
 msgstr "Modo Turbo"
@@ -2844,7 +2844,7 @@ msgid "Upload archive..."
 msgstr "Carregar arquivo..."
 
 msgid "Uploaded File"
-msgstr "Ficheiro carregado"
+msgstr "Ficheiro Carregado"
 
 msgid "Uptime"
 msgstr "Uptime"
@@ -2886,7 +2886,7 @@ msgid "Use default gateway"
 msgstr "Usar gateway pre-definida"
 
 msgid "Use gateway metric"
-msgstr ""
+msgstr "Usar a metrica da gateway"
 
 msgid "Use routing table"
 msgstr "Usar tabela de roteamento"
@@ -2905,7 +2905,7 @@ msgid "Used Key Slot"
 msgstr ""
 
 msgid "User certificate (PEM encoded)"
-msgstr ""
+msgstr "Certificado de Utilizador (codificação PEM)"
 
 msgid "User key (PEM encoded)"
 msgstr ""
@@ -2929,7 +2929,7 @@ msgid "VPN Server"
 msgstr "Servidor VPN"
 
 msgid "VPN Server port"
-msgstr ""
+msgstr "Porta do Servidor VPN"
 
 msgid "VPN Server's certificate SHA1 hash"
 msgstr ""
@@ -3098,7 +3098,7 @@ msgid "disable"
 msgstr "desativar"
 
 msgid "disabled"
-msgstr ""
+msgstr "desativado"
 
 msgid "expired"
 msgstr "expirou"
@@ -3181,10 +3181,10 @@ msgid "relay mode"
 msgstr ""
 
 msgid "routed"
-msgstr ""
+msgstr "roteado"
 
 msgid "server mode"
-msgstr ""
+msgstr "modo servidor"
 
 msgid "skiplink1 Skip to navigation"
 msgstr ""

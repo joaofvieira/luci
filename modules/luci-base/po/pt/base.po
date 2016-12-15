@@ -273,10 +273,10 @@ msgid "Announce as default router even if no public prefix is available."
 msgstr ""
 
 msgid "Announced DNS domains"
-msgstr ""
+msgstr "Anunciar domínios DNS"
 
 msgid "Announced DNS servers"
-msgstr ""
+msgstr "Servidores DNS anunciados"
 
 msgid "Antenna 1"
 msgstr "Antena 1"
@@ -329,7 +329,7 @@ msgid "Auto Refresh"
 msgstr "Actualização Automática"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automático"
 
 msgid "Automatic Homenet (HNCP)"
 msgstr ""
@@ -377,10 +377,10 @@ msgid "Bad address specified!"
 msgstr "Endereço mal especificado!"
 
 msgid "Band"
-msgstr ""
+msgstr "Banda"
 
 msgid "Behind NAT"
-msgstr ""
+msgstr "Atrás de NAT"
 
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
@@ -434,7 +434,7 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 msgid "Chain"
 msgstr "Cadeia"
@@ -537,7 +537,7 @@ msgid "Connection Limit"
 msgstr "Limite de Ligações"
 
 msgid "Connection to server fails when TLS cannot be used"
-msgstr ""
+msgstr "A ligação ao servidor falha quando o TLS não pode ser usado"
 
 msgid "Connections"
 msgstr "Ligações"
@@ -601,7 +601,7 @@ msgid "DHCPv6 Leases"
 msgstr "Concessões DHCPv6"
 
 msgid "DHCPv6 client"
-msgstr ""
+msgstr "Cliente DHCPv6"
 
 msgid "DHCPv6-Mode"
 msgstr ""
@@ -634,7 +634,7 @@ msgid "Default gateway"
 msgstr "Gateway predefinido"
 
 msgid "Default route"
-msgstr ""
+msgstr "Rota predefinida"
 
 msgid "Default state"
 msgstr "Estado predefinido"
@@ -894,7 +894,7 @@ msgstr ""
 "(<code>2m</code>)."
 
 msgid "External"
-msgstr ""
+msgstr "Externa"
 
 msgid "External system log server"
 msgstr "Servidor externo de logs de sistema"
@@ -1098,7 +1098,7 @@ msgid "Hostnames"
 msgstr "Hostnames"
 
 msgid "Hybrid"
-msgstr ""
+msgstr "Hibrido"
 
 msgid "IP address"
 msgstr "Endereço IP"
@@ -1146,13 +1146,13 @@ msgid "IPv6 Firewall"
 msgstr "Firewall IPv6"
 
 msgid "IPv6 Neighbours"
-msgstr ""
+msgstr "Vizinhos IPv6"
 
 msgid "IPv6 Settings"
-msgstr ""
+msgstr "Definições IPv6"
 
 msgid "IPv6 ULA-Prefix"
-msgstr ""
+msgstr "Prefixo ULA IPv6"
 
 msgid "IPv6 WAN Status"
 msgstr "Estado WAN IPv6"
@@ -1182,7 +1182,7 @@ msgid "IPv6 prefix length"
 msgstr "Comprimento do prefixo IPv6"
 
 msgid "IPv6 routed prefix"
-msgstr ""
+msgstr "Prefixo IPv6 roteado"
 
 msgid "IPv6-Address"
 msgstr "Endereço-IPv6"
@@ -1262,7 +1262,7 @@ msgid "Install"
 msgstr "Instalar"
 
 msgid "Install iputils-traceroute6 for IPv6 traceroute"
-msgstr ""
+msgstr "Instalar iputils-traceroute6 para traçar rotas IPv6"
 
 msgid "Install package %q"
 msgstr "Instalar pacote %q"
@@ -1301,7 +1301,7 @@ msgid "Interfaces"
 msgstr "Interfaces"
 
 msgid "Internal"
-msgstr ""
+msgstr "Interna"
 
 msgid "Internal Server Error"
 msgstr "Erro Interno do Servidor"
@@ -1409,13 +1409,13 @@ msgid "Limit"
 msgstr "Limite"
 
 msgid "Line Attenuation"
-msgstr ""
+msgstr "Atenuação da Linha"
 
 msgid "Line Speed"
-msgstr ""
+msgstr "Velocidade da Linha"
 
 msgid "Line State"
-msgstr ""
+msgstr "Estado da Linha"
 
 msgid "Link On"
 msgstr "Link Ativo"
@@ -1489,7 +1489,7 @@ msgid "Localise queries"
 msgstr "Localizar consultas"
 
 msgid "Locked to channel %d used by: %s"
-msgstr ""
+msgstr "Bloqueado ao canal %d usado por: %s"
 
 msgid "Log output level"
 msgstr "Nível de output do log"
@@ -1545,7 +1545,7 @@ msgid "Maximum allowed number of concurrent DNS queries"
 msgstr "Número máximo permitido de consultas DNS permitidas"
 
 msgid "Maximum allowed size of EDNS.0 UDP packets"
-msgstr ""
+msgstr "Tamanho máximo permitido dos pacotes UDP EDNS.0"
 
 msgid "Maximum amount of seconds to wait for the modem to become ready"
 msgstr "Número máximo de segundos a esperar pelo modem para ficar pronto"
@@ -1587,7 +1587,7 @@ msgid "Mode"
 msgstr "Modo"
 
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 msgid "Modem device"
 msgstr "Dispositivo do modem"
@@ -1621,7 +1621,7 @@ msgstr ""
 "anexado ao sistema de arquivos"
 
 msgid "Mount options"
-msgstr ""
+msgstr "Opções de Montagem"
 
 msgid "Mount point"
 msgstr "Ponto de montagem"
@@ -1792,7 +1792,7 @@ msgid "OpenConnect (CISCO AnyConnect)"
 msgstr ""
 
 msgid "Operating frequency"
-msgstr ""
+msgstr "Frequência de Operação"
 
 msgid "Option changed"
 msgstr "Opção alterada"
@@ -1822,7 +1822,7 @@ msgid "Outdoor Channels"
 msgstr "Canais de Outdoor"
 
 msgid "Output Interface"
-msgstr ""
+msgstr "Interface de saída"
 
 msgid "Override MAC address"
 msgstr ""
@@ -1953,7 +1953,7 @@ msgid "Port %d"
 msgstr "Porta %d"
 
 msgid "Port %d is untagged in multiple VLANs!"
-msgstr ""
+msgstr "A porta %d está untagged em múltiplas VLANs!"
 
 msgid "Port status:"
 msgstr "Estado da porta:"
@@ -1991,7 +1991,7 @@ msgid "Protocol support is not installed"
 msgstr "O protocolo suportado não está instalado"
 
 msgid "Provide NTP server"
-msgstr ""
+msgstr "Disponibilizar Servidor NTP"
 
 msgid "Provide new network"
 msgstr ""
@@ -2158,7 +2158,7 @@ msgid "Request IPv6-prefix of length"
 msgstr ""
 
 msgid "Require TLS"
-msgstr ""
+msgstr "Necessita TLS"
 
 msgid "Required for certain ISPs, e.g. Charter with DOCSIS 3"
 msgstr "Necessário para certos ISPs, p.ex. Charter with DOCSIS 3"

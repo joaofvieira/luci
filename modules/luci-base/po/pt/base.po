@@ -93,7 +93,7 @@ msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Gateway"
 msgstr "Gateway <abbr title=\"Protocolo de Internet Versão 6\">IPv6</abbr>"
 
 msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Suffix (hex)"
-msgstr ""
+msgstr "Sufixo <abbr title=\"Protocolo de Internet Versão 6\">IPv6</abbr> (hex)"
 
 msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Configuration"
 msgstr "Configuração do <abbr title=\"Diodo Emissor de Luz\">LED</abbr>"
@@ -125,7 +125,7 @@ msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
 msgstr "<abbr title='Emparelhada: %s / Grupo: %s'>%s - %s</abbr>"
 
 msgid "ADSL"
-msgstr ""
+msgstr "ADSL"
 
 msgid "ADSL Status"
 msgstr "Estado ADSL"
@@ -173,10 +173,10 @@ msgid "Access Point"
 msgstr "Access Point (AP)"
 
 msgid "Action"
-msgstr "Acção"
+msgstr "Ação"
 
 msgid "Actions"
-msgstr "Acções"
+msgstr "Ações"
 
 msgid "Activate this network"
 msgstr "Ativar esta rede"
@@ -210,7 +210,7 @@ msgstr ""
 "hosts"
 
 msgid "Add new interface..."
-msgstr "Adicionar uma nova interface..."
+msgstr "Adicionar nova interface..."
 
 msgid "Additional Hosts files"
 msgstr "Ficheiro Adicional de Hosts"
@@ -262,15 +262,18 @@ msgid ""
 "Also see <a href=\"https://www.sixxs.net/faq/connectivity/?faq=comparison"
 "\">Tunneling Comparison</a> on SIXXS"
 msgstr ""
+"Consulte a <a href=\"https://www.sixxs.net/faq/connectivity/?faq=comparison"
+"\">comparação entre Túneis</a> em SIXXS"
 
 msgid "Always announce default router"
-msgstr ""
+msgstr "Anunciar sempre o router predefinido"
 
 msgid "An additional network will be created if you leave this unchecked."
 msgstr "Uma rede adicional será criada se deixar isto desmarcado."
 
 msgid "Announce as default router even if no public prefix is available."
 msgstr ""
+"Anunciar como router predefinido mesmo não existindo um prefixo público definido"
 
 msgid "Announced DNS domains"
 msgstr "Anunciar domínios DNS"
@@ -332,7 +335,7 @@ msgid "Automatic"
 msgstr "Automático"
 
 msgid "Automatic Homenet (HNCP)"
-msgstr ""
+msgstr "Homenet Automática (HNCP)"
 
 msgid "Available"
 msgstr "Disponível"
@@ -350,7 +353,7 @@ msgid "Back"
 msgstr "Voltar"
 
 msgid "Back to Overview"
-msgstr "Voltar à Visão Global"
+msgstr "Voltar à Vista Global"
 
 msgid "Back to configuration"
 msgstr "Voltar à configuração"
@@ -422,7 +425,7 @@ msgid "Buttons"
 msgstr "Botões"
 
 msgid "CA certificate; if empty it will be saved after the first connection."
-msgstr ""
+msgstr "Certificado CA; se vazio será guardado depois da primeira ligação"
 
 msgid "CPU"
 msgstr "CPU"
@@ -604,10 +607,10 @@ msgid "DHCPv6 client"
 msgstr "Cliente DHCPv6"
 
 msgid "DHCPv6-Mode"
-msgstr ""
+msgstr Modo DHCPv6""
 
 msgid "DHCPv6-Service"
-msgstr ""
+msgstr "Serviço DHCPv6"
 
 msgid "DNS"
 msgstr "DNS"
@@ -628,7 +631,7 @@ msgid "Debug"
 msgstr "Depurar"
 
 msgid "Default %d"
-msgstr ""
+msgstr "%d predefinido"
 
 msgid "Default gateway"
 msgstr "Gateway predefinido"
@@ -679,7 +682,7 @@ msgid "Diagnostics"
 msgstr "Diagnósticos"
 
 msgid "Dial number"
-msgstr ""
+msgstr "Marcar número"
 
 msgid "Directory"
 msgstr "Directório"
@@ -836,16 +839,16 @@ msgid "Enable VLAN functionality"
 msgstr "Ativar a funcionalidade VLAN"
 
 msgid "Enable WPS pushbutton, requires WPA(2)-PSK"
-msgstr ""
+msgstr "Ativar o botão WPS, necessita de WPA(2)-PSK"
 
 msgid "Enable learning and aging"
 msgstr "Ativar aprendizagem e envelhecimento"
 
 msgid "Enable mirroring of incoming packets"
-msgstr ""
+msgstr "Ativar espelho de pacotes a entrar"
 
 msgid "Enable mirroring of outgoing packets"
-msgstr ""
+msgstr "Ativar espelho de pacotes a sair"
 
 msgid "Enable this mount"
 msgstr "Ativar este mount"
@@ -1030,7 +1033,7 @@ msgstr ""
 "A confirmação de password não corresponde, a password não foi alterada!"
 
 msgid "Global network options"
-msgstr ""
+msgstr "Opções globais de rede"
 
 msgid "Go to password configuration..."
 msgstr "Ir para a configuração da password"
@@ -1039,13 +1042,13 @@ msgid "Go to relevant configuration page"
 msgstr "Ir para a página respectiva de configuração"
 
 msgid "Guest"
-msgstr ""
+msgstr "Convidado"
 
 msgid "HE.net password"
 msgstr "Password HE.net"
 
 msgid "HE.net username"
-msgstr ""
+msgstr "Utilizador HE.net"
 
 msgid "Handler"
 msgstr "Handler"
@@ -1119,7 +1122,7 @@ msgid "IPv4 and IPv6"
 msgstr "IPv4 e IPv6"
 
 msgid "IPv4 assignment length"
-msgstr ""
+msgstr "Comprimento da atribuição IPv4"
 
 msgid "IPv4 broadcast"
 msgstr "Broadcast IPv4"
@@ -1164,10 +1167,10 @@ msgid "IPv6 address delegated to the local tunnel endpoint (optional)"
 msgstr ""
 
 msgid "IPv6 assignment hint"
-msgstr ""
+msgstr "Dica da atribuição IPv6"
 
 msgid "IPv6 assignment length"
-msgstr ""
+msgstr "Comprimento da atribuição IPv6"
 
 msgid "IPv6 gateway"
 msgstr "Gateway IPv6"
@@ -1364,7 +1367,7 @@ msgid "L2TP Server"
 msgstr "Servidor L2TP"
 
 msgid "LCP echo failure threshold"
-msgstr ""
+msgstr "Limiar de falha de echo LCP"
 
 msgid "LCP echo interval"
 msgstr "Intervalo de echo LCP"
@@ -1431,7 +1434,7 @@ msgid "List of domains to allow RFC1918 responses for"
 msgstr "Lista de dominios que permitem respostas RFC1918 para"
 
 msgid "List of hosts that supply bogus NX domain results"
-msgstr ""
+msgstr "Lista de hosts que forneceram resultados falsos de domínios NX"
 
 msgid "Listen only on the given interface or, if unspecified, on all"
 msgstr ""
@@ -1720,7 +1723,7 @@ msgid "Noise"
 msgstr "Ruído"
 
 msgid "Noise Margin"
-msgstr ""
+msgstr "Margem de Ruído"
 
 msgid "Noise:"
 msgstr "Ruído:"
